@@ -1,2 +1,6 @@
 # 0xC0FFEE
-An anonymous decentralized forum for open discussion.
+# Core Ideology:
+- Users have full anonymity.
+- Users are never censored.
+# Mission Statement:
+ Provide an anonymous, decentralized forum for open discussion.
